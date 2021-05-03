@@ -84,9 +84,9 @@ DATABASES = {
     'primary': {
         'ENGINE': 'django.db.backends.postgresql',
         'USER': 'postgres',
-        'PASSWORD': 'huv181291',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
         'TEST': {
             'NAME': 'desafio-git-hub',
         },
